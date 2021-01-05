@@ -1,7 +1,7 @@
 {
-  "name": "jira-todoist-sync",
-  "version": "0.0.1",
-  "description": "Sync Jira cards to Todoist",
+  "name": "sync-to-todoist",
+  "version": "1.0.0",
+  "description": "Sync to Todoist",
   "main": "main.js",
   "scripts": {
     "dev": "NODE_ENV=development nodemon src/main.js",
